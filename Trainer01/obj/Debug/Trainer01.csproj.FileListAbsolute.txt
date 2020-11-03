@@ -1,0 +1,15 @@
+C:\Users\CAIO\Desktop\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\Trainer01.exe.config
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\Trainer01.exe.config
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\Trainer01.exe
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\Trainer01.pdb
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\System.Security.Principal.Windows.dll
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\System.Security.Principal.Windows.xml
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.csprojAssemblyReference.cache
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.Form1.resources
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.Properties.Resources.resources
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.csproj.GenerateResource.cache
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.csproj.CoreCompileInputs.cache
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.csproj.CopyComplete
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.exe
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\obj\Debug\Trainer01.pdb
+M:\programaçao desktop 7\Projetos ESTUDOS\Trainer01\Trainer01\bin\Debug\VAMemory.dll
